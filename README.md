@@ -9,3 +9,9 @@ Cloned spotify page: ![image alt](https://github.com/ChetasiTrivedi/chetasi_reac
 
 
 
+
+navigating when album is clicked ![image alt](https://github.com/ChetasiTrivedi/chetasi_react_assgn/blob/main/og.png?raw=true)
+
+
+
+
